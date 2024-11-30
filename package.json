@@ -1,0 +1,14 @@
+{
+  "name": "01-why-typescript",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "why-typescript.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "naruto",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
